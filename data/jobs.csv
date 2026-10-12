@@ -1,0 +1,4 @@
+
+job_title,company,job_url,job_description,source
+Python Backend Developer,Demo Company,https://example.com/jobs/123,"Python, FastAPI, REST APIs, SQL, Git",manual
+Backend Engineer,Example Tech,https://example.com/jobs/456,"Python, Django, PostgreSQL, Docker",manual

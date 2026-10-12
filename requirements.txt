@@ -1,0 +1,15 @@
+
+langgraph
+langchain
+langchain-ollama
+fastapi
+uvicorn[standard]
+streamlit
+pydantic
+pydantic-settings
+python-dotenv
+pymupdf
+python-docx
+sentence-transformers
+pytest
+httpx
